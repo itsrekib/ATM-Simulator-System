@@ -117,12 +117,18 @@ Includes:
 
 ## 🖼️ Screenshots
 
-> *(You can add screenshots inside `screenshots/` folder and update links below)*
+| Login Page        | ATM Interface       | Dashboard        |
+|------------------|-------------------|----------------|
+| ![Login](./screenshots/login.png) | ![ATM](./screenshots/atm.png) | ![Dashboard](./screenshots/dashboard.png) |
 
-| Login Page                        | ATM Interface                 |
-| --------------------------------- | ----------------------------- |
-| ![Login](./screens<img width="918" height="577" alt="Screenshot 2025-10-19 234829" src="https://github.com/user-attachments/assets/5c885b0e-b53b-456e-93d3-d1e9f09a3092" />
-hots/login.png) | ![ATM](./screenshots/atm.png) |
+| Deposit          | Withdraw           | Balance         |
+|-----------------|------------------|----------------|
+| ![Deposit](./screenshots/deposit.png) | ![Withdraw](./screenshots/withdraw.png) | ![Balance](./screenshots/balance.png) |
+
+| Transaction History | PIN Verification | Receipt        |
+|-------------------|-----------------|----------------|
+| ![History](./screenshots/transaction_history.png) | ![PIN](./screenshots/pin_verification.png) | ![Receipt](./screenshots/receipt.png) |
+
 
 ---
 
