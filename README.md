@@ -135,8 +135,8 @@ Viw All [Images](https://github.com/itsrekib/ATM-Simulator-System/tree/main/scre
 ## ✍️ Author
 
 👤 **Rekibur Uddin**
-📧 [Your Email or Portfolio Link]
-💻 BCA Final Year Project | Java Developer | Android Developer
+📧 Visit my [Portfolio]((https://rekiburuddin.blogspot.com/)
+💻 Android Developer
 
 ---
 
