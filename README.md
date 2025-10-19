@@ -119,7 +119,7 @@ Includes:
 
 | Login Page        | ATM Interface       | Dashboard        |
 |------------------|-------------------|----------------|
-| ![Login](./screenshots/Screenshot%202025-10-19%20234829.png) | ![ATM](./screenshots/atm.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login](./screenshots/Screenshot%202025-10-19%20234829.png) | ![ATM](./screenshots/Screenshot%202025-10-19%20234845.png) | ![Dashboard](./screenshots/Screenshot%202025-10-19%20234904.png) |
 
 | Deposit          | Withdraw           | Balance         |
 |-----------------|------------------|----------------|
@@ -129,7 +129,7 @@ Includes:
 |-------------------|-----------------|----------------|
 | ![History](./screenshots/transaction_history.png) | ![PIN](./screenshots/pin_verification.png) | ![Receipt](./screenshots/receipt.png) |
 
-
+Viw All [Images](https://github.com/itsrekib/ATM-Simulator-System/tree/main/screenshots)
 ---
 
 ## ✍️ Author
