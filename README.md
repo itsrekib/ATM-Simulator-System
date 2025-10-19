@@ -65,7 +65,7 @@ ATM-Simulator-System/
 
 ## 📊 ER Diagram
 
-📌 [View ER Diagram (PDF)](./blob/main/My%20Project%20DFD%20Er.pdf)
+📌 [View ER Diagram (PDF)](./My%20Project%20DFD%20Er.pdf)
 *(Opens in GitHub PDF Viewer)*
 
 ---
