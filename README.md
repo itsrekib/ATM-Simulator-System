@@ -72,7 +72,7 @@ ATM-Simulator-System/
 
 ## 📘 Project Report
 
-📄 [Download Full Project Report (PDF)](./report/Project-Report.pdf)
+📄 [Download Full Project Report (PDF)](./My%20Project%20Report.pdf)
 Includes:
 
 * Problem Definition
@@ -121,7 +121,8 @@ Includes:
 
 | Login Page                        | ATM Interface                 |
 | --------------------------------- | ----------------------------- |
-| ![Login](./screenshots/login.png) | ![ATM](./screenshots/atm.png) |
+| ![Login](./screens<img width="918" height="577" alt="Screenshot 2025-10-19 234829" src="https://github.com/user-attachments/assets/5c885b0e-b53b-456e-93d3-d1e9f09a3092" />
+hots/login.png) | ![ATM](./screenshots/atm.png) |
 
 ---
 
