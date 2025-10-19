@@ -119,7 +119,7 @@ Includes:
 
 | Login Page        | ATM Interface       | Dashboard        |
 |------------------|-------------------|----------------|
-| ![Login](./screenshots/login.png) | ![ATM](./screenshots/atm.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login](./screenshots/Screenshot%202025-10-19%20234829.png) | ![ATM](./screenshots/atm.png) | ![Dashboard](./screenshots/dashboard.png) |
 
 | Deposit          | Withdraw           | Balance         |
 |-----------------|------------------|----------------|
