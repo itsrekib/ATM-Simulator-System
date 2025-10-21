@@ -1,4 +1,4 @@
-# 🏦 Bank Management System with ATM Simulator 💳
+# 🏦 Bank Management System with ATM Simulator 💳 - by Rekibur Uddin
 
 A **Java-based Bank Management System** built using **NetBeans IDE** and **MySQL Workbench**, designed to simulate real-world banking operations and ATM functionality.
 This project is part of the **BCA Final Year Project** and includes complete ER diagrams, database structure, and a project report.
